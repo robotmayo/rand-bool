@@ -19,3 +19,7 @@ Note : Only works in node 6.2
 ## LICENSE
 
 MIT
+
+[Reference](https://bugs.chromium.org/p/chromium/issues/detail?id=604033)
+
+
