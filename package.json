@@ -1,0 +1,15 @@
+{
+  "name": "rand-bool",
+  "version": "1.0.0",
+  "description": "Returns a random boolean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "boolean"
+  ],
+  "author": "robotmayo",
+  "license": "MIT"
+}
